@@ -1,0 +1,6 @@
+<h1 align = "center">
+Hospital management System <br>
+Welcome to the appointmnet Booking System <br> 
+Please Sign Up if you don't have an account <br>
+Login if you have a previous account </h>
+
